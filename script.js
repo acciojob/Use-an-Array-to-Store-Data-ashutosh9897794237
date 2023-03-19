@@ -1,4 +1,4 @@
 
- let simpleArray = ['Ashu', 4, 'kushwah', 23, 'Age',true,false
+ let simpleArray = ['Ashu', 4, 'kushwah', 23, 'Age',true
 					];
-console.log(simpleArray);
+console.log(simpleArray.length);
