@@ -1,2 +1,2 @@
 
-let yourArray = ['thirty', 2007, true, 26, 'love'];
+let yourArray = ['Ashutosh', 2000, true, 23, 'Age'];
