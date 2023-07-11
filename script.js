@@ -1,3 +1,2 @@
 
- let simpleArray = ['Ashu', 4, 'kushwah', 23, 'Age',true
-					];
+let yourArray = ['thirty', 2007, true, 26, 'love'];
